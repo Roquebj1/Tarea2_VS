@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tabla_Multiplicar", "Tabla_Multiplicar\Tabla_Multiplicar.csproj", "{FDF732E4-7FEF-4928-8C2C-F5B4A1B4B91C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDF732E4-7FEF-4928-8C2C-F5B4A1B4B91C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDF732E4-7FEF-4928-8C2C-F5B4A1B4B91C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDF732E4-7FEF-4928-8C2C-F5B4A1B4B91C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDF732E4-7FEF-4928-8C2C-F5B4A1B4B91C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3059809-51CB-4FB9-9EED-37774228BA4B}
+	EndGlobalSection
+EndGlobal
